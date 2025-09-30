@@ -1,0 +1,63 @@
+.advant{
+
+}
+
+.advant__name{
+    color: #4D4D4D;
+    font-size: 36px;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 40px;
+}
+
+
+.advant__line{
+    width: 100%;
+    height: 1px;
+    background-color: #E3E3E3;
+    margin-top: 30px;
+    margin-bottom: 45px;
+}
+
+
+.advant__inner{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+
+.advant__inner__card{
+    width: 400px;
+    height: 400px;
+    margin-bottom: 100px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+.advant__inner__card__img{
+    width: 120px;
+    height: 120px;
+    margin-top: 50px;
+}
+
+
+.advant__inner__card__name{
+    font-size: 36px;
+    font-weight: 700;
+    color: #481C03;
+    margin-top: 30px;
+    text-align: center;
+}
+
+
+.advant__inner__card__desc{
+    font-size: 20px;
+    font-weight: 400;
+    text-align: center;
+    width: 312px;
+    margin-top: 20px;
+}
+
